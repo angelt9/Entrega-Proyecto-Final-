@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Creatina",
+        "amount": 1,
+        "price": 5000
+    },
+    {
+        "id": 2,
+        "name": "Remera Hombre",
+        "amount": 1,
+        "price": 3000
+    },
+    {
+        "id": 3,
+        "name": "Remera Mujer",
+        "amount": 1,
+        "price": 3000
+    }
+]
